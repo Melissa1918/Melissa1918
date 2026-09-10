@@ -25,6 +25,7 @@ I'm currently studying at California State University, San Bernardino with a foc
 | Project | Description |
 |---------|-------------|
 | [CYB102-Project1-BEC-Investigation](https://github.com/Melissa1918/CYB102-Project1-BEC-Investigation) | Traced a Business Email Compromise phishing campaign using Wireshark packet analysis and SMTP forensics |
+| [NICE-Challenge-Linux-Admin-101](https://github.com/Melissa1918/NICE-Challenge-Linux-Admin-101) | Provisioned user accounts, granted sudo privileges, and updated Apache on an AlmaLinux production server via the XP Cyber Range |
 
 ## 📫 Connect With Me
 
